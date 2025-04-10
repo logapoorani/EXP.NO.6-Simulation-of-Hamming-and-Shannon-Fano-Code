@@ -127,18 +127,20 @@ print(f"Variance is : {var}")
 
 # OUTPUT
 ```
-Enter the number of Samples : 3
-Enter the probability of sample values 1: 0.5
-Enter the probability of sample values 2: 0.5
-Enter the probability of sample values 3: 0.2
+Enter the number of Samples : 4
+Enter the probability of sample values 1: 0.6
+Enter the probability of sample values 2: 0.4
+Enter the probability of sample values 3: 0.8
+Enter the probability of sample values 4: 0.3
 Enter the length of the sample values 1: 1
 Enter the length of the sample values 2: 2
 Enter the length of the sample values 3: 3
-Average Codeword Length is : 2.1
-Entropy is : 1.464
-Efficiency is : 0.697
-Redudancy is : 0.303
-Variance is : 0.772
+Enter the length of the sample values 4: 4
+Average Codeword Length is : 5.0
+Entropy is : 1.75
+Efficiency is : 0.35
+Redudancy is : 0.65
+Variance is : 16.7
 ```
 
  
