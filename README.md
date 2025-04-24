@@ -123,27 +123,23 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ```
 
-
-
 # OUTPUT
 ```
 Enter the number of Samples : 4
-Enter the probability of sample values 1: 0.6
-Enter the probability of sample values 2: 0.4
-Enter the probability of sample values 3: 0.8
-Enter the probability of sample values 4: 0.3
+Enter the probability of sample values 1: 0.2
+Enter the probability of sample values 2: 0.1
+Enter the probability of sample values 3: 0.3
+Enter the probability of sample values 4: 0.4
 Enter the length of the sample values 1: 1
 Enter the length of the sample values 2: 2
 Enter the length of the sample values 3: 3
 Enter the length of the sample values 4: 4
-Average Codeword Length is : 5.0
-Entropy is : 1.75
-Efficiency is : 0.35
-Redudancy is : 0.65
-Variance is : 16.7
-```
-
- 
+Average Codeword Length is : 2.9
+Entropy is : 1.846
+Efficiency is : 0.637
+Redudancy is : 0.363
+Variance is : 1.29
+``` 
 # RESULT
 ```
 Thus the simulation of Huffman and Shannon-Fano code is verified.
